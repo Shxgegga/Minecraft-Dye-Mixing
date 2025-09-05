@@ -45,6 +45,6 @@ Denary: 5
 Undenary: 0  
 Total: 5710940
 
-Final Note: The functions generateComposites and generateAllComposites, which are commented out, were my original method for generating composite (not primary) colors. They gave all the correct resulting colors, but weren't optimized to use the fewest dyes possible. Their results for the secondary colors are in SecondaryOG.txt. As a nice bonus from the switch, generateComposites2 is actually significantly faster! I decided to leave them in because why not, it's mildly interesting.
+Final Note: The functions generateComposites and generateAllComposites, which are commented out, were my original method for generating composite (not primary) colors. They gave all the correct resulting colors, but weren't optimized to use the fewest dyes possible. As a nice bonus from the switch, generateComposites2 is actually significantly faster! I decided to leave them in because why not, it's mildly interesting.
 
 Final Final Note: The way the program's set up, if you ran it again and told it to output to the same file, it would just append all the data to the end of the file, so make sure to delete the file or change the name if you want to run it yourself.
