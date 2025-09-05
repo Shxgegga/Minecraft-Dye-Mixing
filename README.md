@@ -1,7 +1,7 @@
 # Minecraft-Dye-Mixing
 An exhaustive searcher to find all colors of dyed leather armor that are obtainable through crafting in Minecraft JE.
 
-Results of the search are in the files named Primary.txt, Secondary.txt, Tertiary.txt, etc.
+Results of the search are in the files named Primary.txt, Secondary.txt, Tertiary.txt, etc. (Secondary is split into two files because it's over 100MB, Secondary.txt is combos that use 1 additional dye, Secondary2.txt is everything else)
 
 Primary colors are colors that can be made in a single dyeing operation (undyed leather armor + 1-8 dyes)  
 Secondary colors require at least 2 dyeing operations (leather armor dyed a primary color + 1-8 dyes)  
